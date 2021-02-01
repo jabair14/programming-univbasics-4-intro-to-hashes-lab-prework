@@ -40,6 +40,7 @@ def update_counting_hash(hash, key)
   end
     if new_hash[key] nil
       puts new_hash += 1 
+    end
    
   
   # given a hash an a key as parameters, return an updated hash
