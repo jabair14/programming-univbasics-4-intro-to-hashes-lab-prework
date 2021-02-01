@@ -36,12 +36,7 @@ end
 
 def update_counting_hash(hash, key)
     new_hash = {hash => key}
-    puts new_hash[key] 
-  end
-    if new_hash[key] nil
-      puts new_hash += 1 
-    end
-   
+  
   
   # given a hash an a key as parameters, return an updated hash
   # if the provided key is not present in the hash, add it and assign it to the value of 1
