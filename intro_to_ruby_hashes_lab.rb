@@ -35,7 +35,7 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-   new_hash = {hash => 3}
+   new_hash = {hash => key}
    
   
   # given a hash an a key as parameters, return an updated hash
