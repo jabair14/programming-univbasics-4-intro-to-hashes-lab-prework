@@ -36,7 +36,9 @@ end
 
 def update_counting_hash(hash, key)
     new_hash = {hash => key}
-    if new_hash['hello']
+  end
+def update_hash
+    if new_hash[1]
       puts new_hash
     else 
       puts new_hash += 1
