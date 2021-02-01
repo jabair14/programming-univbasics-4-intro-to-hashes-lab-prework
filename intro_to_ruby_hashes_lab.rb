@@ -25,7 +25,7 @@ end
 
 def my_hash_creator(key, value)
     my_hash_creator = {
-        :key => "bananas", 
+        :key => "Grace Hopper", 
         :value => 1
   }
   return my_hash_creator
