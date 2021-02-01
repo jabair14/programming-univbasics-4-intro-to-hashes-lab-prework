@@ -24,7 +24,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-        name = {1 => "Grace Hopper"}
+        key = {"Grace Hopper" => 1}
         name[1]
   # return a hash that includes the key and value parameters passed into this method
 end
