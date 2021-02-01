@@ -3,6 +3,9 @@ def new_hash
 end
 
 def my_hash
+  my_hash = {
+      name: "Jabair" 
+  }
   # return a valid hash with any key/value pair of your choice
 end
 
