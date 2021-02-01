@@ -24,7 +24,9 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-        
+        new_hash = {:name => "Grace Hopper", 
+                    :value => 1
+          }
   # return a hash that includes the key and value parameters passed into this method
 end
 
