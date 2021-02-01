@@ -25,7 +25,7 @@ end
 
 def my_hash_creator(key, value)
         name = {1 => "Grace Hopper"}
-        name["Grace Hopper"]
+        name[1]
   # return a hash that includes the key and value parameters passed into this method
 end
 
