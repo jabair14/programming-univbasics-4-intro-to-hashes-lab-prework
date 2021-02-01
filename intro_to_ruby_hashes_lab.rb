@@ -34,7 +34,7 @@ end
 
 def read_from_hash(hash, key)
   hash = {name: "Steve"}
-  key[name:]
+  key[name]
   # return the correct value using the hash and key parameters
 end
 
