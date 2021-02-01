@@ -25,10 +25,8 @@ end
 
 def my_hash_creator(key, value)
         key = :name 
-        new_hash
-        
-        #new_hash = {:name => 'Grace Hopper'
-           } 
+        value = {"Grace Hopper" => 1}
+            
   # return a hash that includes the key and value parameters passed into this method
 end
 
